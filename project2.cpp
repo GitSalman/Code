@@ -19,7 +19,7 @@ int main() {
     cout << "|       Calculator      |" << endl;
     cout << "=========================" << endl;
 
-    cout << "This program will compute your clothing sizes.\n\n";
+    cout << "This program will compute what coins to give out for any amount of change.\n\n";
 
     char reCalculate;
 
